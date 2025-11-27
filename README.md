@@ -23,7 +23,9 @@ ESP32-MULTI_TASKS-FREERTOS/
 ├── README.md          # Tài liệu này
 └── ... (ảnh minh hoạ, video demo)
 ```
+## Tài liệu tham khảo
 
+- [Yêu cầu chi tiết & hướng dẫn](https://docs.google.com/document/d/1s0GCPdVyUdRB-I33-zEpp38XXBoiJyie/edit?usp=sharing)
 
 ## Sơ đồ phần cứng
 
@@ -36,9 +38,10 @@ ESP32-MULTI_TASKS-FREERTOS/
 ### Minh hoạ kết nối
 ![Sơ đồ kết nối ESP32 Multi-task FreeRTOS](esp32-multitask-freertos.png)
 
+
 ## Video minh hoạ
 
-- [YouTube Demo](https://www.youtube.com/watch?v=e1O58hB72mY)
+[![YouTube Demo](https://img.youtube.com/vi/e1O58hB72mY/0.jpg)](https://www.youtube.com/watch?v=e1O58hB72mY)
 
 ## Hướng dẫn build & chạy
 
@@ -71,9 +74,5 @@ ESP32-MULTI_TASKS-FREERTOS/
 		"motion": <0 hoặc 1>
 	}
 	```
-
-## Tài liệu tham khảo
-
-- [Yêu cầu chi tiết & hướng dẫn](https://docs.google.com/document/d/1s0GCPdVyUdRB-I33-zEpp38XXBoiJyie/edit?usp=sharing)
 
 
